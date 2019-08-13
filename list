@@ -1,4 +1,4 @@
-# Date: 13 Aug 2019
+# Date: 14 Aug 2019
 #
 
 #Facebook
@@ -9,9 +9,9 @@
 
 #Xiaomi
 
-abtest.mistat.intl.xiaomi.com
-api.ad.intl.xiaomi.com
-data.mistat.intl.xiaomi.com
-globalapi.ad.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-tracking.intl.miui.com
+0.0.0.0 abtest.mistat.intl.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 tracking.intl.miui.com
